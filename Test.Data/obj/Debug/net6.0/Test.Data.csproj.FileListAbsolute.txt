@@ -1,0 +1,15 @@
+C:\Users\GÖKHAN\Desktop\Test\Test.Data\bin\Debug\net6.0\Test.Data.deps.json
+C:\Users\GÖKHAN\Desktop\Test\Test.Data\bin\Debug\net6.0\Test.Data.dll
+C:\Users\GÖKHAN\Desktop\Test\Test.Data\bin\Debug\net6.0\Test.Data.pdb
+C:\Users\GÖKHAN\Desktop\Test\Test.Data\obj\Debug\net6.0\Test.Data.csproj.AssemblyReference.cache
+C:\Users\GÖKHAN\Desktop\Test\Test.Data\obj\Debug\net6.0\Test.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GÖKHAN\Desktop\Test\Test.Data\obj\Debug\net6.0\Test.Data.AssemblyInfoInputs.cache
+C:\Users\GÖKHAN\Desktop\Test\Test.Data\obj\Debug\net6.0\Test.Data.AssemblyInfo.cs
+C:\Users\GÖKHAN\Desktop\Test\Test.Data\obj\Debug\net6.0\Test.Data.csproj.CoreCompileInputs.cache
+C:\Users\GÖKHAN\Desktop\Test\Test.Data\obj\Debug\net6.0\Test.Data.dll
+C:\Users\GÖKHAN\Desktop\Test\Test.Data\obj\Debug\net6.0\refint\Test.Data.dll
+C:\Users\GÖKHAN\Desktop\Test\Test.Data\obj\Debug\net6.0\Test.Data.pdb
+C:\Users\GÖKHAN\Desktop\Test\Test.Data\obj\Debug\net6.0\ref\Test.Data.dll
+C:\Users\GÖKHAN\Desktop\Test\Test.Data\bin\Debug\net6.0\Test.Models.dll
+C:\Users\GÖKHAN\Desktop\Test\Test.Data\bin\Debug\net6.0\Test.Models.pdb
+C:\Users\GÖKHAN\Desktop\Test\Test.Data\obj\Debug\net6.0\Test.Data.csproj.CopyComplete

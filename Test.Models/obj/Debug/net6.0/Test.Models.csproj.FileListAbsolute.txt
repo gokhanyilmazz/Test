@@ -1,0 +1,12 @@
+C:\Users\GÖKHAN\Desktop\Test\Test.Models\bin\Debug\net6.0\Test.Models.deps.json
+C:\Users\GÖKHAN\Desktop\Test\Test.Models\bin\Debug\net6.0\Test.Models.dll
+C:\Users\GÖKHAN\Desktop\Test\Test.Models\bin\Debug\net6.0\Test.Models.pdb
+C:\Users\GÖKHAN\Desktop\Test\Test.Models\obj\Debug\net6.0\Test.Models.csproj.AssemblyReference.cache
+C:\Users\GÖKHAN\Desktop\Test\Test.Models\obj\Debug\net6.0\Test.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GÖKHAN\Desktop\Test\Test.Models\obj\Debug\net6.0\Test.Models.AssemblyInfoInputs.cache
+C:\Users\GÖKHAN\Desktop\Test\Test.Models\obj\Debug\net6.0\Test.Models.AssemblyInfo.cs
+C:\Users\GÖKHAN\Desktop\Test\Test.Models\obj\Debug\net6.0\Test.Models.csproj.CoreCompileInputs.cache
+C:\Users\GÖKHAN\Desktop\Test\Test.Models\obj\Debug\net6.0\Test.Models.dll
+C:\Users\GÖKHAN\Desktop\Test\Test.Models\obj\Debug\net6.0\refint\Test.Models.dll
+C:\Users\GÖKHAN\Desktop\Test\Test.Models\obj\Debug\net6.0\Test.Models.pdb
+C:\Users\GÖKHAN\Desktop\Test\Test.Models\obj\Debug\net6.0\ref\Test.Models.dll
